@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.*;
 
 public class AnimalFarm {
-    private final List<String> farmAnimals;
+    private List<String> farmAnimals;
 
     public AnimalFarm(List<String> farmAnimals) {
         this.farmAnimals = farmAnimals;
